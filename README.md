@@ -11,7 +11,7 @@ This project sorts a list of names by last name and then by given names.
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/name-sorter.git
+    git clone https://github.com/Pain600/name-sorter.git
     cd name-sorter
     ```
 
